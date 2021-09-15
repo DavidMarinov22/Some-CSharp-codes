@@ -1,0 +1,7 @@
+D:\CODES\CSharp Fundamentals Preperation\Data Types and Variables\bin\Debug\Data Types and Variables.exe.config
+D:\CODES\CSharp Fundamentals Preperation\Data Types and Variables\bin\Debug\Data Types and Variables.exe
+D:\CODES\CSharp Fundamentals Preperation\Data Types and Variables\bin\Debug\Data Types and Variables.pdb
+D:\CODES\CSharp Fundamentals Preperation\Data Types and Variables\obj\Debug\Data Types and Variables.csprojAssemblyReference.cache
+D:\CODES\CSharp Fundamentals Preperation\Data Types and Variables\obj\Debug\Data Types and Variables.csproj.CoreCompileInputs.cache
+D:\CODES\CSharp Fundamentals Preperation\Data Types and Variables\obj\Debug\Data Types and Variables.exe
+D:\CODES\CSharp Fundamentals Preperation\Data Types and Variables\obj\Debug\Data Types and Variables.pdb

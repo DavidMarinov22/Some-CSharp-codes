@@ -1,0 +1,7 @@
+D:\CODES\CSharp Fundamentals Preperation\Pascal Triangle\bin\Debug\Pascal Triangle.exe.config
+D:\CODES\CSharp Fundamentals Preperation\Pascal Triangle\bin\Debug\Pascal Triangle.exe
+D:\CODES\CSharp Fundamentals Preperation\Pascal Triangle\bin\Debug\Pascal Triangle.pdb
+D:\CODES\CSharp Fundamentals Preperation\Pascal Triangle\obj\Debug\Pascal Triangle.csprojAssemblyReference.cache
+D:\CODES\CSharp Fundamentals Preperation\Pascal Triangle\obj\Debug\Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\CODES\CSharp Fundamentals Preperation\Pascal Triangle\obj\Debug\Pascal Triangle.exe
+D:\CODES\CSharp Fundamentals Preperation\Pascal Triangle\obj\Debug\Pascal Triangle.pdb

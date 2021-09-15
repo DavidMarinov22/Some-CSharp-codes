@@ -1,0 +1,7 @@
+D:\CODES\CSharp Fundamentals Preperation\Arrays\bin\Debug\Arrays.exe.config
+D:\CODES\CSharp Fundamentals Preperation\Arrays\bin\Debug\Arrays.exe
+D:\CODES\CSharp Fundamentals Preperation\Arrays\bin\Debug\Arrays.pdb
+D:\CODES\CSharp Fundamentals Preperation\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\CODES\CSharp Fundamentals Preperation\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\CODES\CSharp Fundamentals Preperation\Arrays\obj\Debug\Arrays.exe
+D:\CODES\CSharp Fundamentals Preperation\Arrays\obj\Debug\Arrays.pdb

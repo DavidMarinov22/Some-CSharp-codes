@@ -1,0 +1,7 @@
+D:\CODES\CSharp Fundamentals Preperation\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+D:\CODES\CSharp Fundamentals Preperation\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+D:\CODES\CSharp Fundamentals Preperation\Methods\bin\Debug\Methods.exe.config
+D:\CODES\CSharp Fundamentals Preperation\Methods\bin\Debug\Methods.exe
+D:\CODES\CSharp Fundamentals Preperation\Methods\bin\Debug\Methods.pdb
+D:\CODES\CSharp Fundamentals Preperation\Methods\obj\Debug\Methods.exe
+D:\CODES\CSharp Fundamentals Preperation\Methods\obj\Debug\Methods.pdb
